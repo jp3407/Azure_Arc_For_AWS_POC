@@ -1,7 +1,7 @@
 # Azure_Arc_For_AWS_POC
 Overview:
 This is a presentation requesting proof of concept for Microsoft Azure Arc.
-This presentation will explain the challenge, purpose, features and cost of using Azure Arc to as a site manager for your AWS environment.
+This presentation will explain the challenge, purpose, features and cost of using Azure Arc as a site manager for your AWS environment.
 
 
 
