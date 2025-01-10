@@ -3,7 +3,7 @@ Overview
 This is a presentation reqesting a proof of concept using Microsoft Azure Arc to manage your AWS environmwent.
 
 
-![page1]([https://github.com/jp3407/Azure_Arc_For_AWS_POC/blob/main/azure_arc_poc_slide_images/1.jpg])
+![page1](https://github.com/jp3407/Azure_Arc_For_AWS_POC/blob/main/azure_arc_poc_slide_images/1.jpg)
 
 
 ![Page2](https://raw.githubusercontent.com/jp3407/lakeside_systrack/main/2.jpg)
